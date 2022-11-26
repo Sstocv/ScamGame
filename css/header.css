@@ -37,9 +37,12 @@
 
 }
 
+.header__right {
+    margin-top: 17px;
+}
+
 .header__user {
     display: inline-flex;
-    margin-top: 17px;
     margin-right: 80px;
 }
 
@@ -56,4 +59,19 @@
 .header__signin {
     margin-left: 40px;
     color: #fff;
+}
+
+/* Section Main Game */
+
+.sec__newGame {
+    background: url(../img/header/bg.jpg) no-repeat;
+    height: 94vh;
+}
+
+.contantGame {
+    text-align: center;
+}
+
+.contantGamePhoto {
+    margin-top: 3%;
 }
