@@ -19,6 +19,7 @@
 
 .header__inner {
     padding-top: 17px;
+    align-items: center;
 }
 
 .header__left {
@@ -46,6 +47,7 @@
     font-size: 15px;
     text-align: center;
     border: 1px solid #fff;
+    border-radius: 30%;
     padding: 2px 120px 2px 5px;
 }
 

@@ -1,4 +1,12 @@
-.contantGame img {
+.sec__newGame {
+    background: url(../img/contant/bg.jpg) no-repeat;
     height: 94vh;
-    width: 100%;
+}
+
+.contantGame {
+    text-align: center;
+}
+
+.contantGamePhoto {
+    margin-top: 3%;
 }
