@@ -35,7 +35,7 @@
 
 }
 
-.header__search img {
-    float: right;
+.header__search {
     margin-top: 17px;
+    font-size: 20px;
 }
