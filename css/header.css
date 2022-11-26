@@ -4,13 +4,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-decoration: none;
 }
 
 /* Header */
 .header {
     width: 100%;
     height: 60px;
-    background-color: #798094;
+    background-color: #454a58;
     color: #fff;
     display: flex;
     justify-content: space-between;
@@ -35,7 +36,22 @@
 
 }
 
-.header__search {
+.header__user {
+    display: inline-flex;
     margin-top: 17px;
-    font-size: 20px;
+    margin-right: 80px;
+}
+
+.header__search {
+    font-size: 15px;
+    text-align: center;
+    border: 1px solid #fff;
+    padding: 2px 120px 2px 5px;
+}
+
+
+
+.header__signin {
+    margin-left: 40px;
+    color: #fff;
 }
